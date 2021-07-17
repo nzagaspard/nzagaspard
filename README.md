@@ -1,8 +1,7 @@
 ## Hello World 🌍🤝
 I am a Data Analyst, Scientist & Engineer from Rwanda
 
-👨‍💻 I am applying strong expertise in machine-learning, data mining, and information retrieval to design, prototype, and build the next-generation analytics engines and services while conducting advanced statistical analysis to provide actionable insights, identify trends, and measure key metrics and performance indicators.![image](https://user-images.githubusercontent.com/65093165/126049081-518dcdaf-413b-4d9a-9840-2a58de9c3298.png)
-
+👨‍💻 I am applying strong expertise in machine-learning, data mining, and information retrieval to design, prototype, and build the next-generation analytics engines and services while conducting advanced statistical analysis to provide actionable insights, identify trends, and measure key metrics and performance indicators.
 
 ## Expertise
 <img align="left" alt="medium" src="https://img.shields.io/badge/python-3DDC84?logo=python&logoColor=white&style=for-the-badge" />
