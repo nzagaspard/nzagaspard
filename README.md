@@ -2,7 +2,7 @@
 I am a Data Analyst, Scientist & Engineer from Rwanda
 
 👨‍💻 Currently applying strong expertise in machine-learning, data mining, and information retrieval to design, prototype, and build the next-generation analytics engines and services.
-➕ conducting advanced statistical analysis to provide actionable insights, identify trends, and measure key metrics and performance indicators.
+➕💯 Conducting advanced statistical analysis to provide actionable insights, identify trends, and measure key metrics and performance indicators.
 
 🎯 Have a vision to promote data literacy and leadership so that organizations/individuals use data for decisions making.
 
