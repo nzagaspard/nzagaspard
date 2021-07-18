@@ -10,8 +10,8 @@ I am a Data Analyst, Scientist & Engineer from Rwanda
 <img align="left" alt="medium" src="https://img.shields.io/badge/python-3DDC84?logo=python&logoColor=white&style=for-the-badge" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/SQL & postgresql-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
 <br>
-<br>• APIs & web scraping 🌐<br> • Data Mining & Data cleaning 🗃️ <br> • Data Visualization & dashboarding 📊<br>• Probabilities & statistics 🔢<br>• Data Structures & algorithms🗜️
-<br>• Machine Learning 🤖<br> • Git & Version Control 🗘<br> • Spark, Map & Reduce (Big data) 🗄️
+<br>• APIs & Web Scraping 🌐<br> • Data Mining & Data Cleaning 🗃️ <br> • Data Visualization & Dashboarding 📊<br>• Probabilities & Statistics 🔢<br>• Data Structures & Algorithms🗜️
+<br>• Machine Learning 🤖<br> • Git & Version Control 🗘<br> • Spark, Map & Reduce (Big Data) 🗄️
 
 ## Some Projects
 
