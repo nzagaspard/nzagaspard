@@ -15,6 +15,8 @@ I am a Data Analyst, Scientist & Engineer from Rwanda
 [Covid-19 Tracking & Forecasting - Rwanda](https://rwandacovidtracker.herokuapp.com)
 <br>
 [Predicting Houses' Price in Kigali](http://housespricepredictor.herokuapp.com)
+<br>
+[WhatsApp Chats Analyser](https://whatsapp-chatanalyser.herokuapp.com)
 
 ## Connect with me
 
