@@ -20,6 +20,9 @@ I am a Data Analyst, Scientist & Engineer from Rwanda
 [Predicting Houses' Price in Kigali](http://housespricepredictor.herokuapp.com)
 <br>
 [WhatsApp Chats Analyser](https://whatsapp-chatanalyser.herokuapp.com)
+<br>
+[Business Metrics](https://business-metrics.herokuapp.com/)
+
 ## Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gaspard-nzasabimfura/)
