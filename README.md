@@ -6,6 +6,8 @@ I am a Data Analyst, Scientist & Engineer from Rwanda
 
 🎯 Have a vision to promote data literacy and leadership so that organizations/individuals use data for decisions making.
 
+🔗ℹ️ [Personal Website](https://nzagaspard.github.io/)
+
 ## Expertise
 <img align="left" alt="medium" src="https://img.shields.io/badge/python-3DDC84?logo=python&logoColor=white&style=for-the-badge" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/SQL & postgresql-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -28,6 +30,8 @@ I am a Data Analyst, Scientist & Engineer from Rwanda
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gaspard-nzasabimfura/)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/nzasabimana.gaspard/)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/nzagaspard)
+[<img align="left" alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/nzagaspard)
+[<img align="left" alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/250722882193)
 <br>
 <br>
 
