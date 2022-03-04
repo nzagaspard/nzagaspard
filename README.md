@@ -26,11 +26,14 @@ I am a Data Analyst, Scientist & Engineer from Rwanda
 
 [Covid-19 Tracking & Forecasting - Rwanda](https://rwandacovidtracker.herokuapp.com)
 <br>
-[Predicting Houses' Price in Kigali](http://housespricepredictor.herokuapp.com)
+[
+Predicting House Price In Kigali Using Machine Learning](http://housespricepredictor.herokuapp.com)
 <br>
 [WhatsApp Chats Analyser](https://whatsapp-chatanalyser.herokuapp.com)
 <br>
 [Business Metrics](https://business-metrics.herokuapp.com/)
+<br>
+[Sentiments' Analysis of Mobile Banking Applications Reviews in Rwanda Before & After 2020](https://github.com/nzagaspard/Reviews-Sentiments-of-Mobile-Banking-Applications-in-Rwanda-Before-2020-and-After/blob/main/README.md)
 
 ## Connect with me
 
