@@ -12,11 +12,14 @@ I am a Data Analyst, Scientist & Engineer from Rwanda
 ## Expertise
 <img align="left" alt="python" src="https://img.shields.io/badge/python-3DDC84?logo=python&logoColor=white&style=for-the-badge" />
 <img align="left" alt="postgres" src="https://img.shields.io/badge/SQL & postgresql-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
+<img align="left" alt="oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
+<img align="left" alt="microsoft" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 <img align="left" alt="github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 <img align="left" alt="amazon" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img align="left" alt="heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
 <img align="left" alt="markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 <img align="left" alt="jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+<img align="left" alt="colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
 <br>
 <br>
 <br>• APIs & Web Scraping 🌐<br> • Data Mining & Data Cleaning 🗃️ <br> • Data Visualization & Dashboarding 📊<br>• Probabilities & Statistics 🔢<br>• Data Structures & Algorithms🗜️
