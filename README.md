@@ -7,7 +7,8 @@ I am a Data Analyst, Scientist & Engineer from Rwanda
 🎯 Have a vision to promote data literacy and leadership so that organizations/individuals use data for decisions making.
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://nzagaspard.github.io/)
-[Personal Website](https://nzagaspard.github.io/) <br>
+
+<p style="text-align:center;font-size: 2em;background-color:#fafafa;"><a href="https://nzagaspard.github.io/" target="_blank" rel="noopener noreferrer">Personal Website</a></p><br>
 
 ## Expertise
 <img align="left" alt="python" src="https://img.shields.io/badge/python-3DDC84?logo=python&logoColor=white&style=for-the-badge" />
