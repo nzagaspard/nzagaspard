@@ -28,7 +28,7 @@ I am a Data Analyst, Scientist & Engineer from Rwanda
 
 ## Some Projects
 
-[Covid-19 Tracking & Forecasting - Rwanda](https://rwandacovidtracker.herokuapp.com)
+[Covid-19 Tracking & Forecasting - Rwanda](https://nzagaspard-rwanda-covid-1-rwandacovidtracker-forecasting-lsvnuk.streamlit.app)
 <br>
 [
 Predicting House Price In Kigali Using Machine Learning](https://nzagaspard-predicting-house-prices-i-housepricepredictor-b18kzw.streamlit.app)
