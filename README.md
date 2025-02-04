@@ -33,9 +33,12 @@ I am a Data Analyst, Scientist & Engineer from Rwanda
 
 ![image](https://github.com/user-attachments/assets/2fb158cb-278f-4b87-886a-8f77e79d4928)
 
-[
-Predicting House Price In Kigali Using Machine Learning](https://nzagaspard-predicting-house-prices-i-housepricepredictor-b18kzw.streamlit.app)
+### [
+Predicting House Price In Kigali Using Machine Learning](https://kigalihousepredictor.streamlit.app/)
 <br>
+
+![image](https://github.com/user-attachments/assets/f2887a6f-012a-4ea7-91d6-df3181beb4aa)
+
 [WhatsApp Chats Analyser](https://whatsapp-chatanalyser.herokuapp.com)
 <br>
 [Business Metrics](https://nzagaspard-business-metrics-master-app-3vex51.streamlit.app/)
