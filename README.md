@@ -28,8 +28,9 @@ I am a Data Analyst, Scientist & Engineer from Rwanda
 
 ## Some Projects
 
-[Marburg Insights & Updates - Rwanda](https://marburg.streamlit.app/)
+### [Marburg Insights & Updates - Rwanda](https://marburg.streamlit.app/)
 <br>
+
 ![image](https://github.com/user-attachments/assets/2fb158cb-278f-4b87-886a-8f77e79d4928)
 
 [
