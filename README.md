@@ -28,6 +28,12 @@ I am a Data Analyst, Scientist & Engineer from Rwanda
 
 ## Some Projects
 
+### [Kids Friendly Bible Questions Using AI/LLM](https://biblequestions.streamlit.app/)
+<br>
+
+![image](https://github.com/user-attachments/assets/dfa348bf-863b-4beb-b0c7-e7fce9b431d5)
+
+
 ### [Marburg's Insights & Updates - Rwanda](https://marburg.streamlit.app/)
 <br>
 
