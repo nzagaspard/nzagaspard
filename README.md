@@ -31,7 +31,7 @@ I am a Data Analyst, Scientist & Engineer from Rwanda
 ### [Kids Friendly Bible Questions Using AI/LLM](https://biblequestions.streamlit.app/)
 <br>
 
-![image](https://github.com/user-attachments/assets/dfa348bf-863b-4beb-b0c7-e7fce9b431d5)
+![image](https://github.com/user-attachments/assets/184dd6b4-4bea-4e0c-827d-6696c16f8f4c)
 
 
 ### [Marburg's Insights & Updates - Rwanda](https://marburg.streamlit.app/)
